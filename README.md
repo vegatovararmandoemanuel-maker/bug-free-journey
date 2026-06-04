@@ -9,7 +9,7 @@ GitHub proporciona dos API: una API REST y una API GraphQL. Puedes interactuar c
 
 Debes usar la API que se adapte mejor a tus necesidades y que te resulte más cómoda de usar. No es necesario usar exclusivamente una de las dos API. Los identificadores de nodo permiten cambiar entre la API REST y la API GraphQL. Para más información, consulta [Utilizar las IDs de nodo globales](/es/graphql/guides/using-global-node-ids).
 
-En este artículo se describen las ventajas de cada API. Para más información sobre GraphQL API, consulta [Acerca de la API de GraphQL](/es/graphql/overview/about-the-graphql-api). Para obtener más información sobre la API REST, consulta [Acerca de la API de REST](/es/rest/about-the-rest-api/about-the-rest-api).
+En este artículo se describen las ventajas de cada API. Para más información sobre GraphQL API, consulta [Acerca de la API de GraphQL](/es/graphql/overviewhttps://github.com/Lum1104/Understand-Anything sobre la API REST, consulta [Acerca de la API de REST](/es/rest/about-the-rest-api/about-the-rest-api).
 
 ## Selección de la API GraphQL
 
