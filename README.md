@@ -68,3 +68,5 @@ mutation {
   }
 }
 ```
+
+como viaja el dinero por transferencia 
